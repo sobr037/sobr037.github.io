@@ -83,7 +83,7 @@
   }
   
   .product_container {   /* container for each individual project */
-    width: calc(30% - 20px);
+    width: calc(20% - 20px);
     margin-bottom: 40px;
     font-weight: 500;
     background-color: #fff;
